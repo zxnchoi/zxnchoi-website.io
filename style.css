@@ -101,7 +101,7 @@ header.scrolled {
     cursor: pointer;
     text-shadow: 0 2px 10px  rgba(255, 255, 255, 0.932);
     margin-bottom: 20px;
-    animation: glow 2s infinite alternate
+    animation: glow 2s infinite alternate;
 }
 
 .brand-dot {
@@ -309,6 +309,9 @@ header.scrolled {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     position: relative;
+    text-shadow: 0 2px 10px  rgba(255, 255, 255, 0.932);
+    margin-bottom: 20px;
+    animation: glow 2s infinite alternate;
 }
 
 .hero-subtitle {
@@ -1510,4 +1513,5 @@ header.scrolled {
         height: 50px;
         font-size: 1.2rem;
     }
+
 }
