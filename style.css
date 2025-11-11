@@ -299,7 +299,7 @@ header.scrolled {
     margin-bottom: 1rem;
     opacity: 0;
     animation: fadeInUp 0.8s ease forwards 0.4s;
-    color: #00d4ff;
+    text-color: #00d4ff;
 }
 
 .hero-subtitle {
@@ -1510,3 +1510,4 @@ header.scrolled {
         font-size: 1.2rem;
     }
 }
+
