@@ -293,7 +293,7 @@ header.scrolled {
 }
 
 .my-dot {
-    background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+    color: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1509,3 +1509,4 @@ header.scrolled {
         font-size: 1.2rem;
     }
 }
+
